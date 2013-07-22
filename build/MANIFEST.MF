@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 19.1-b02 (Sun Microsystems Inc.)
+UNO-Type-Path: 
+RegistrationClassName: com.epuber.reader.CentralRegistrationClass
+Class-Path: lib/epublib-core-latest.jar lib/slf4j-api-1.6.4.jar lib/sl
+ f4j-simple-1.6.4.jar lib/xmlpull-1.1.3.4d_b4_min.jar lib/kxml2-2.3.0.
+ jar
+
+Name: com/epuber/reader/CentralRegistrationClass.class
+RegistrationClasses: com.epuber.reader.ePUBer_Reader
+

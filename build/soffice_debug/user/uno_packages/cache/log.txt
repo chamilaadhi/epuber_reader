@@ -1,0 +1,348 @@
+###### Progress log entry 2012-03-13 19:08:17 ######
+Copying: ePUBer_Reader.oxt
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-13 19:08:41 ######
+###### Progress log entry 2012-03-14 09:55:28 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 09:55:48 ######
+###### Progress log entry 2012-03-14 11:11:53 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 11:12:09 ######
+###### Progress log entry 2012-03-14 11:19:34 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 11:19:47 ######
+###### Progress log entry 2012-03-14 11:39:47 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 11:40:02 ######
+###### Progress log entry 2012-03-14 12:07:34 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 12:07:54 ######
+###### Progress log entry 2012-03-14 12:12:41 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 12:12:58 ######
+###### Progress log entry 2012-03-14 12:13:37 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-14 12:13:54 ######
+###### Progress log entry 2012-03-15 15:01:14 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:01:31 ######
+###### Progress log entry 2012-03-15 15:08:05 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:08:20 ######
+###### Progress log entry 2012-03-15 15:24:58 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:25:17 ######
+###### Progress log entry 2012-03-15 15:30:56 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:31:15 ######
+###### Progress log entry 2012-03-15 15:34:08 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:34:26 ######
+###### Progress log entry 2012-03-15 15:36:57 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:37:14 ######
+###### Progress log entry 2012-03-15 15:47:19 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:47:35 ######
+###### Progress log entry 2012-03-15 15:53:11 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:53:28 ######
+###### Progress log entry 2012-03-15 15:58:50 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 15:59:05 ######
+###### Progress log entry 2012-03-15 16:01:08 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:01:25 ######
+###### Progress log entry 2012-03-15 16:02:38 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:02:56 ######
+###### Progress log entry 2012-03-15 16:05:45 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:06:00 ######
+###### Progress log entry 2012-03-15 16:10:47 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:11:04 ######
+###### Progress log entry 2012-03-15 16:12:47 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:13:02 ######
+###### Progress log entry 2012-03-15 16:16:00 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:16:23 ######
+###### Progress log entry 2012-03-15 16:19:08 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:19:26 ######
+###### Progress log entry 2012-03-15 16:22:57 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:23:24 ######
+###### Progress log entry 2012-03-15 16:49:12 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:49:38 ######
+###### Progress log entry 2012-03-15 16:56:06 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 16:56:29 ######
+###### Progress log entry 2012-03-15 17:25:14 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 17:25:30 ######
+###### Progress log entry 2012-03-15 17:28:50 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 17:29:03 ######
+###### Progress log entry 2012-03-15 17:30:56 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 17:31:10 ######
+###### Progress log entry 2012-03-15 17:41:23 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 17:42:25 ######
+###### Progress log entry 2012-03-15 18:40:13 ######
+Copying: ePUBer_Reader.oxt
+Disabling: ePUBer_Reader.oxt
+ Disabling: ePUBer_Reader.jar
+ Disabling: Addons.xcu
+ Disabling: ProtocolHandler.xcu
+Enabling: ePUBer_Reader.oxt
+ Enabling: ProtocolHandler.xcu
+ Enabling: Addons.xcu
+ Enabling: ePUBer_Reader.jar
+###### Progress log entry 2012-03-15 18:40:25 ######
